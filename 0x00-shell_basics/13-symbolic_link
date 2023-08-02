@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -s pwd __ls__
+ls -sd __ls__
