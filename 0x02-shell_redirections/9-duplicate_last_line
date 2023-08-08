@@ -1,2 +1,2 @@
 #!/bin/bash
-echo head -1 iacta > iacta
+echo head -1 iacta >> iacta
