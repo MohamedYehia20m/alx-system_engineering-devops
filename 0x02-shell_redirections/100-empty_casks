@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aR | cut -d: -f6 | find . -empty -o
+ls -aR | cut -d: -f8 | find . -empty -o
